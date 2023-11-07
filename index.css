@@ -15,6 +15,7 @@ h2 { align-items: center;
 
 .tekstonderfoto p {margin-top: 0.1em;
     font-size: 19px;
+    text-align: center;
 
 }
 
@@ -119,6 +120,9 @@ footer {
     text-align: center;
     margin: 2em;
     padding-bottom: 2em;
+    background-color: antiquewhite;
+    padding-top: 0.6em;
+    border-radius: 0.2em;
 }
 header img {padding-bottom: 1em;}
 
