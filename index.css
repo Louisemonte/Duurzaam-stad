@@ -30,8 +30,7 @@ h2 { align-items: center;
 
 .info1 {   display: flex;
     justify-content: left;
-    padding-left: 2em;
-    padding-bottom: 2em;
+    padding-left: 1em;
 }
 .info1 img {
     padding: 0.5em;
@@ -39,33 +38,34 @@ h2 { align-items: center;
 
 }
 
-.info1 p { margin-right: 4em;
-    margin-left: 2em;
-    font-size: 10px;
+.info1 p {
+    font-size: 13px;
     color: #8caa88;
+    margin-left: 1em;
 }
 
 .info2 {
     background-color: #C8A17D;
     display: flex;
+    border-radius: 0.3em;
+    padding-top: 1em;
+    padding-bottom: 1em;
 }
 
 .info2 img {
     padding: 0.5em;
     border-radius: 0.3em;
     margin-right: 1em;
-    display: flex;
     margin-top: 0.2em;
     margin-right:1.2em ;
 
 }
 
 .info2 p { 
-    margin-right: 2em;
-    margin-left: 4em;
+    margin-left: 1em;
     margin-top: 1.6em;
     padding-bottom: 0.5em;
-    font-size: 10px;
+    font-size: 13px;
     color: white;
 }
 
@@ -80,7 +80,7 @@ h2 { align-items: center;
     display: flex;
     justify-content:space-evenly;
     gap: 1em;
-
+    margin-bottom: 5em;
 }
 
 .homepage2 {background-color: #C8A17D; 
@@ -252,19 +252,12 @@ h1 {color: #8caa88;
 
 }
 
-.laatstetekst {
-    display: flex;
-    }
-    
-    .laatstetekst p { font-size: 12px;
-        margin-top: 6em;
+    .laatstetekst p { font-size: 15px;
         text-align: center;
         color: #8caa88;
         margin-right: 1.2em;
-    
+
     }
-
-
 
     .kleurvlak3     {
         width: 100%;
