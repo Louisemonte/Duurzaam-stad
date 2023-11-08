@@ -83,7 +83,7 @@ footer {
     text-align: center;
     margin: 2em;
     padding-bottom: 2em;
-    background-color: antiquewhite;
+    background-color: #EFE7DA;
     padding-top: 0.6em;
     border-radius: 0.2em;
 }
@@ -158,7 +158,7 @@ h2 { font-size: 21px;
     color: #8caa88;
 
 }
-  .vlakbruin {background-color: #c49270;
+  .vlakbruin {background-color: #c8a17d;
     padding-bottom: 5em;
 margin-bottom: 5em;
 border-radius: 0.4em;
@@ -177,37 +177,26 @@ margin-top: 1em;
 
 
 
-
-
 .kleurvlak {
     width: 100%;
     height: 100px;
-    background-color: #c49270; 
+    background-color: #c69165; 
     position: absolute;
-    top: 1745px;
     z-index: -1;
     padding-bottom: 2em;
     border-radius: 0.5em;
+    margin-top: 14em;
 
 }
 
-.kleurvlak2 {
-    width: 100%;
-    height: 100px;
-    background-color: #c49270; 
-    position:relative;
-    bottom: 250px;
-    z-index: -1;
-    padding-top: 1em;
-    padding-bottom: 2em;
-    
 
-}
+
 
     .laatstetekst p { font-size: 15px;
         text-align: center;
         color: #8caa88;
-        margin-right: 1.2em;
+        margin: 1em;
+
 
     }
 
@@ -216,13 +205,13 @@ margin-top: 1em;
     .kleurvlak3     {
         width: 100%;
         height: 100px;
-        background-color: #c49270; 
+        background-color: #c8a17d; 
         position:relative;
-        top: -80px;
         z-index: -1;
-        padding-bottom: 1em;
-        padding-top: 1em;
         border-radius: 0.2em;
+        margin-bottom: 4em;
+        margin-top: -4em;
+        padding-bottom: 1em;
     
     }
     
@@ -231,8 +220,9 @@ margin-top: 1em;
     margin-bottom:2em ;
 
 }
-.tekst2 {background-color: whitesmoke;
+.tekst2 {background-color: #F5F5F5;
     border-radius: 0.2em;
+    margin-top: 10em;
 }
 
 .tekst2 h2 {
@@ -290,7 +280,7 @@ margin-top: 1em;
 
 
 }
-.vlakbruin2 {background-color: #c49270;
+.vlakbruin2 {background-color: #c8a17d;
 margin-bottom: 1em;
 }
 
@@ -395,7 +385,7 @@ body {
 
 
 .pagina1 {
-    background-color: whitesmoke;
+    background-color: #F5F5F5;
     border-radius: 1em;
     padding-top: 1em;
     margin-top: 1em;
@@ -404,7 +394,7 @@ body {
     }
 
     .pagina2 {
-        background-color:whitesmoke;
+        background-color: #F5F5F5;
         border-radius: 1em;
         padding-top: 1em;
         margin-top: 1em;
@@ -445,7 +435,7 @@ body {
         }
         
         .info1 {
-            background-color: #C8A17D;
+            background-color: #c8a17d;
             display: flex;
             border-radius: 0.3em;
             padding-top: 1em;
@@ -455,7 +445,7 @@ body {
         
 
 .info2 {
-    background-color: #C8A17D;
+    background-color: #c8a17d;
     display: flex;
     border-radius: 0.3em;
     padding-top: 1em;
@@ -487,7 +477,7 @@ body {
 .info4 {
     display: flex;
     justify-content: right;
-    background-color: #c49270;
+    background-color: #c8a17d;
     padding: 1em;
     border-radius: 0.4em;
     
@@ -502,7 +492,7 @@ body {
 .info3 {
     display: flex;
     justify-content: right;
-    background-color: #c49270;
+    background-color: #c8a17d;
     padding: 1em;
     border-radius: 0.4em;
 }
@@ -516,7 +506,7 @@ body {
 .info3 img {margin-top: 1em;}
 .info4 img {margin-top: 1em}
 
-.whitesmoke {background-color: whitesmoke;
+.whitesmoke {background-color: #F5F5F5;
     padding-top: 1em;
 
 }
