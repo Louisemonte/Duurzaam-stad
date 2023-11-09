@@ -284,10 +284,6 @@ margin-top: 1em;
 margin-bottom: 1em;
 }
 
-
-  
-
-
   
   h1 {
     font-size: 36px;
@@ -405,14 +401,14 @@ body {
         .info1 img {
             border-radius: 0.4em;
             margin-left: 1em;
-            margin-top: 2.5em;
+            margin-top: -2.9em;
         }
 
 
         .info2 img {
-            border-radius: 0.4em;
+    
             margin-right: 1em;
-            margin-top: 2.5em;
+            margin-top: -2em;
 
         }
  
@@ -440,7 +436,6 @@ body {
             border-radius: 0.3em;
             padding-top: 1em;
             padding-bottom: 1em;
-            margin: 2em;
         }
         
 
@@ -450,7 +445,6 @@ body {
     border-radius: 0.3em;
     padding-top: 1em;
     padding-bottom: 1em;
-    margin: 2em;
 }
 
 .banner2{
